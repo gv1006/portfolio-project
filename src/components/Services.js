@@ -9,7 +9,7 @@ function Services() {
             <h1 className="py-5">my services</h1>
             <div className="container">
                 <div className="row">
-                    <div className="col-md-3 col-sm-6">
+                    <div className="col-lg-3 col-md-6 col-sm-6">
                         <div className="box">
                             <div className="circle">
                                 <FontAwesomeIcon className="icon" icon={faDesktop} size="2x" />
@@ -18,7 +18,7 @@ function Services() {
                             <p>I approach each project individually and always focus on the result.</p>
                         </div>
                     </div>
-                    <div className="col-md-3 col-sm-6">
+                    <div className="col-lg-3 col-md-6 col-sm-6">
                         <div className="box">
                             <div className="circle">
                                 <FontAwesomeIcon className="icon" icon={faFileCode} size="2x" />
@@ -27,7 +27,7 @@ function Services() {
                             <p>Your website will be built with an new proven technologies.</p>
                         </div>
                     </div>
-                    <div className="col-md-3 col-sm-6">
+                    <div className="col-lg-3 col-md-6 col-sm-6">
                         <div className="box">
                             <div className="circle">
                                 <FontAwesomeIcon className="icon" icon={faChrome} size="2x" />
@@ -36,7 +36,7 @@ function Services() {
                             <p>Cross browser cross platform extensions will be developed based on requirements given.</p>
                         </div>
                     </div>
-                    <div className="col-md-3 col-sm-6">
+                    <div className="col-lg-3 col-md-6 col-sm-6">
                         <div className="box">
                             <div className="circle">
                                 <FontAwesomeIcon className="icon" icon={faChrome} size="2x" />
